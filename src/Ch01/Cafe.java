@@ -118,6 +118,7 @@ public class Cafe {
 		    }   
       		else {
 		        System.out.println("잘못입력하셨습니다.");
+		        System.out.println("잘못입력하셨습니다.");
 	    }
 	}
 	
